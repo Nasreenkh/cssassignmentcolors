@@ -1,0 +1,49 @@
+body{
+    font-family:sans-serif;
+
+}
+h1{
+    background-color: grey;
+}
+h2{
+    background-color: rgb(149, 147, 240);
+    
+}
+.Paragraph8{
+    background-color:purple;
+   
+}
+.Paragraph7{
+    background-color:rgb(19, 85, 30);
+    color: white;
+}
+.Paragraph6{
+    background-color:rgb(124, 11, 11);
+}
+.Paragraph9{
+    background-color:rgb(189, 60, 71);
+    color: white;
+}
+.Paragraph5{
+    background-color:rgb(211, 230, 40);
+}
+.Paragraph4{
+    background-color:rgb(48, 23, 117);
+    color: white;
+}
+.Paragraph3{
+    background-color:rgb(88, 89, 199);
+    color: white;
+}
+.Paragraph2{
+    background-color:rgb(121, 19, 114);
+    color: white;
+}
+.Paragraph1{
+    background-color:rgb(212, 230, 17);
+    color: white;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
